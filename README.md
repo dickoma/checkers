@@ -1,2 +1,3 @@
-# checkers
-Training project during the holidays
+# Jeu de dames
+
+Ce projet a pour but de réaliser un jeu de dames ... 
