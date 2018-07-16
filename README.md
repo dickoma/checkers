@@ -22,5 +22,6 @@ Fermez ce fichier et sur le terminal, saisissez les commandes suivantes :
 source ~/.bash_profile 
 mkdir $PROJECTPATH
 cd $PROJECTPATH
+sudo apt install git
 git clone https://github.com/dickoma/checkers.git #cloning git projet
 ```
