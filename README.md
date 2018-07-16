@@ -13,9 +13,9 @@ Copiez-y les commandes ci-dessous :
 
 ```bash
 export PROJECTPATH='chemin_absolu_du_projet'
-alias mettreEnLigne='$PROJECTPATH/commands/push.sh'
-alias recupererMisÀjour='$PROJECTPATH/commands/pull.sh'
-alias allerDansProjet='$PROJECTPATH/commands/toProject.sh'
+alias mettreEnLigne='$PROJECTPATH/checkers/commands/push.sh'
+alias recupererMisÀjour='$PROJECTPATH/checkers/commands/pull.sh'
+alias allerDansProjet='$PROJECTPATH/checkers/commands/toProject.sh'
 ```
 Fermez ce fichier et sur le terminal, saisissez les commandes suivantes : 
 
