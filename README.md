@@ -13,8 +13,8 @@ Copiez-y les commandes ci-dessous :
 
 ```bash
 export PROJECTPATH='chemin_absolu_du_projet'
-alias mettreEnLigne='$PROJECTPATH/push.sh'
-alias recupererMisÀjour='$PROJECTPATH/pull.sh'
+alias mettreEnLigne='$PROJECTPATH/commands/push.sh'
+alias recupererMisÀjour='$PROJECTPATH/commands/pull.sh'
 ```
 Fermez ce fichier et sur le terminal, saisissez les commandes suivantes : 
 
