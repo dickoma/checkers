@@ -1,0 +1,3 @@
+# Jeu de dames
+
+Ce projet a pour but de réaliser un jeu de dames ... 
