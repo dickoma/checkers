@@ -15,6 +15,7 @@ Copiez-y les commandes ci-dessous :
 export PROJECTPATH='chemin_absolu_du_projet'
 alias mettreEnLigne='$PROJECTPATH/commands/push.sh'
 alias recupererMisÀjour='$PROJECTPATH/commands/pull.sh'
+alias allerDansProjet='$PROJECTPATH/commands/toProject.sh'
 ```
 Fermez ce fichier et sur le terminal, saisissez les commandes suivantes : 
 
@@ -25,3 +26,7 @@ cd $PROJECTPATH
 sudo apt install git
 git clone https://github.com/dickoma/checkers.git #cloning git projet
 ```
+Configuration terminée ! 
+
+
+
