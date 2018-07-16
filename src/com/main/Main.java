@@ -1,4 +1,4 @@
-package com.checkers;
+package com.main;
 
 public class Main {
 
